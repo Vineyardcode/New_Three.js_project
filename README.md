@@ -1,1 +1,1 @@
-Three.js project template
+A blank Three.js project template
