@@ -1,5 +1,5 @@
 A blank Three.js project template
 
-
-1. npm install
-2. npm run dev
+1. rename the package
+2. npm install
+3. npm run dev
